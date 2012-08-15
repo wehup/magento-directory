@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<jstranslator>
+	<error-getting-cities translate="message" module="wehup_directory">
+		<message>Error retrieving cities list. Try again.</message>
+	</error-getting-cities>
+	<please-select-a-city translate="message" module="wehup_directory">
+		<message>Please select a city</message>
+	</please-select-a-city>
+</jstranslator>

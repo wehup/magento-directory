@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Wehup_Directory>
+			<active>true</active>
+			<codePool>community</codePool>
+			<depends>
+				<Mage_Directory />
+			</depends>
+		</Wehup_Directory>
+	</modules>
+</config>
